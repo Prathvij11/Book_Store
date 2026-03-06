@@ -1,0 +1,196 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "prathvi",
+      "email": "prathvi@gmail.com",
+      "password": "123456",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "username": "rahul",
+      "email": "rahul@gmail.com",
+      "password": "rahul@123",
+      "role": "user"
+    },
+    {
+      "id": "3",
+      "username": "ananya",
+      "email": "ananya@gmail.com",
+      "password": "ananya@123",
+      "role": "user"
+    },
+    {
+      "id": "6fc1",
+      "username": "Prathvij",
+      "email": "prathvij2003@gmail.com",
+      "password": "123",
+      "cnfpaswd": "5659",
+      "role": "user"
+    },
+    {
+      "id": "93785477-d103-42b3-b8a2-62f740340c65",
+      "username": "prathvi",
+      "email": "prathvij2003@gmail.com",
+      "password": "123456",
+      "cnfpaswd": "123456",
+      "role": "admin"
+    },
+    {
+      "id": "18a1a2b9-6701-4d02-a3aa-8dc3e027a0ca",
+      "username": "Prathvij",
+      "email": "prathvij2003@gmail.com",
+      "password": "123456",
+      "cnfpaswd": "123456",
+      "role": "admin"
+    },
+    {
+      "id": "a941b1fb-5002-4cf3-bfeb-8f772006bfb3",
+      "username": "prathvi",
+      "email": "prathvij2003@gmail.com",
+      "password": "123456",
+      "cnfpaswd": "123456",
+      "role": "admin"
+    },
+    {
+      "id": "dff3ba4f-765c-4575-9b64-ef61e0aaf52a",
+      "username": "Prathvij",
+      "email": "prathvij2003@gmail.com",
+      "password": "123456",
+      "cnfpaswd": "123456",
+      "role": "admin"
+    }
+  ],
+  "books": [
+    {
+      "id": "201",
+      "title": "Full Stack Web Development",
+      "author": "Brad Traversy",
+      "genre": "Web Development",
+      "price": 1200,
+      "cover_image": "https://covers.openlibrary.org/b/id/10909258-L.jpg",
+      "description": "Covers front-end and back-end web development concepts.\nIncludes HTML, CSS, JavaScript, and modern frameworks.\nFocuses on real-world full stack applications.\nIdeal for beginners and aspiring full stack developers."
+    },
+    {
+      "id": "202",
+      "title": "Data Science with Python",
+      "author": "Jake VanderPlas",
+      "genre": "Data Science",
+      "price": 1500,
+      "cover_image": "https://covers.openlibrary.org/b/id/8155436-L.jpg",
+      "description": "Explains data analysis using Python libraries.\nCovers NumPy, Pandas, and Matplotlib in detail.\nFocuses on practical data science workflows.\nSuitable for beginners and intermediate learners."
+    },
+    {
+      "id": "203",
+      "title": "Machine Learning Basics",
+      "author": "Andrew Ng",
+      "genre": "Artificial Intelligence",
+      "price": 1800,
+      "cover_image": "https://covers.openlibrary.org/b/id/10958358-L.jpg",
+      "description": "Introduces core machine learning concepts clearly.\nCovers supervised and unsupervised learning.\nFocuses on algorithms and real-world use cases.\nPerfect for students starting AI and ML."
+    },
+    {
+      "id": "204",
+      "title": "MERN Stack Development",
+      "author": "Maximilian Schwarzmüller",
+      "genre": "Web Development",
+      "price": 2000,
+      "cover_image": "https://covers.openlibrary.org/b/id/10521288-L.jpg",
+      "description": "Teaches MongoDB, Express, React, and Node.js.\nBuilds full-stack applications step by step.\nCovers authentication and REST APIs.\nIdeal for modern JavaScript developers."
+    },
+    {
+      "id": "205",
+      "title": "Cloud Computing Fundamentals",
+      "author": "Thomas Erl",
+      "genre": "Cloud Computing",
+      "price": 1600,
+      "cover_image": "https://covers.openlibrary.org/b/id/8231992-L.jpg",
+      "description": "Explains cloud computing concepts and models.\nCovers IaaS, PaaS, and SaaS architectures.\nFocuses on scalability and virtualization.\nSuitable for beginners in cloud technology."
+    },
+    {
+      "id": "206",
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "genre": "Software Engineering",
+      "price": 1700,
+      "cover_image": "https://covers.openlibrary.org/b/id/9611983-L.jpg",
+      "description": "Teaches principles of writing clean code.\nFocuses on readability and maintainability.\nIncludes real-world coding examples.\nEssential for professional software developers."
+    },
+    {
+      "id": "207",
+      "title": "You Don’t Know JS Yet",
+      "author": "Kyle Simpson",
+      "genre": "JavaScript",
+      "price": 1300,
+      "cover_image": "https://covers.openlibrary.org/b/id/10594753-L.jpg",
+      "description": "Deep dive into JavaScript core concepts.\nExplains scope, closures, and async behavior.\nHelps developers truly understand JS.\nBest for intermediate JavaScript learners."
+    },
+    {
+      "id": "208",
+      "title": "Design Patterns",
+      "author": "Erich Gamma",
+      "genre": "Software Architecture",
+      "price": 1900,
+      "cover_image": "https://covers.openlibrary.org/b/id/8235116-L.jpg",
+      "description": "Covers classic software design patterns.\nExplains reusable solutions to common problems.\nFocuses on object-oriented design principles.\nIdeal for advanced developers and architects."
+    },
+    {
+      "id": "209",
+      "title": "Deep Learning",
+      "author": "Ian Goodfellow",
+      "genre": "Artificial Intelligence",
+      "price": 2100,
+      "cover_image": "https://covers.openlibrary.org/b/id/8274151-L.jpg",
+      "description": "Comprehensive guide to deep learning concepts.\nCovers neural networks and deep architectures.\nIncludes math and practical implementations.\nBest for advanced AI and ML learners."
+    },
+    {
+      "id": "210",
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt",
+      "genre": "Programming",
+      "price": 1600,
+      "cover_image": "https://covers.openlibrary.org/b/id/10579965-L.jpg",
+      "description": "Focuses on practical programming practices.\nTeaches problem-solving and coding discipline.\nCovers career growth and mindset.\nA must-read for all programmers."
+    }
+  ],
+  "cart": [],
+  "orders": [],
+  "payments": [
+    {
+      "id": "8dac",
+      "paymentId": "pay_dummy_1769194159511",
+      "amount": 9600,
+      "status": "success",
+      "date": "2026-01-23T18:49:19.511Z"
+    },
+    {
+      "id": "165e",
+      "paymentId": "pay_dummy_1769204098641",
+      "amount": 1500,
+      "status": "success",
+      "date": "2026-01-23T21:34:58.641Z"
+    },
+    {
+      "id": "ba94",
+      "paymentId": "pay_dummy_1769204109717",
+      "amount": 1500,
+      "status": "success",
+      "date": "2026-01-23T21:35:09.717Z"
+    },
+    {
+      "id": "70b4",
+      "paymentId": "pay_dummy_1769232717259",
+      "amount": 8300,
+      "status": "success",
+      "date": "2026-01-24T05:31:57.259Z"
+    },
+    {
+      "id": "606c",
+      "paymentId": "pay_dummy_1770556864098",
+      "amount": 4500,
+      "status": "success",
+      "date": "2026-02-08T13:21:04.098Z"
+    }
+  ]
+}
